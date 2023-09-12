@@ -1,0 +1,28 @@
+_repo: Saugethiere-vom-Celebes-und-Philippinen-Archipel_71616
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Meyer, A. B.
+    gutenberg_agent_id: '56303'
+    url: http://www.gutenberg.org/2009/agents/56303
+description: ''
+gutenberg_issued: '2023-09-11'
+identifiers:
+  gutenberg: '71616'
+language: de
+pgterms:marc904: https://archive.org/details/sugethierevomc00meyerad
+pgterms:marc905: 20210123075148meyer
+pgterms:marc906: '1896'
+pgterms:marc907: DE
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This file was produced from images
+  generously made available by Biodiversity Heritage Library.)
+publication_note: '  $aBerlin :$bVerlag von R. Friedländer & Sohn, $c1896, pubdate
+  1899.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Säugethiere vom Celebes- und Philippinen-Archipel
+url: http://www.gutenberg.org/ebooks/71616
