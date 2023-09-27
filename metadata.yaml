@@ -1,11 +1,16 @@
 _repo: Saugethiere-vom-Celebes-und-Philippinen-Archipel_71616
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71616-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Meyer, A. B.
     gutenberg_agent_id: '56303'
     url: http://www.gutenberg.org/2009/agents/56303
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71616#Saugethiere-vom-Celebes-und-Philippinen-Archipel
 gutenberg_issued: '2023-09-11'
 identifiers:
   gutenberg: '71616'
